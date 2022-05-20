@@ -1,15 +1,16 @@
-# SW-Task-Matrix-Conversion
+# SW-Task-matrix-Flatten
 A program that convert 3d vectors to 1d and vice versa.
 
 ## The following requirements are specified 
-- Function generate_1d_matrix
-- Take min and max values of x from the user.
-- The following operators is supported: + - / * ^.- 
-- The GUI is simple and beautiful (well organized).
+- Function "generate_1d_matrix" randomly generates 1D vector
+- Function "generate_3d_matrix" randomly generates 3D vector
+- Function "convert_3d_to_1d" converts 3D vector to 1D
+- Function "convert_1d_to_3d" converts 1D vector to 3D
+
 
 ## How to run the program correctly 
 - Install python (in case it was not installed) 
-- Run the python file:
+- The program uses built-in libraries, so no external packages installation are required. Simply run the python file:
     ```
     python function_plotter.py
     ```
