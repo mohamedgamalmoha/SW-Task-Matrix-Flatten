@@ -1,4 +1,4 @@
-# SW-Task-matrix-Flatten
+# SW-Task-Matrix-Flatten
 A program that convert 3d vectors to 1d and vice versa.
 
 ## The following requirements are specified 
